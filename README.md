@@ -6,9 +6,3 @@
 - 
 - 💬 Ask me about technical stuff
 - 📫 How to reach me: sagargpatil62@gmail.com
-<--
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
